@@ -5,8 +5,8 @@
 const {TimestreamQueryClient} = require("@aws-sdk/client-timestream-query");
 const {QueryCommand} = require("@aws-sdk/client-timestream-query");
  const CREDENTIALS = {
-    accessKeyId: 'AKIAXTGD5IES42XZ2XET',
-    secretAccessKey: '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',
+    accessKeyId: 'XXXXXXXXXXXXX',
+    secretAccessKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
   };
 
 
